@@ -13,6 +13,7 @@ public class DemoThread {
 	System.out.println(e2.getName());
 	System.out.println(Thread.currentThread().getName());
 	Thread.currentThread().setName("achyuth");
+	// to test COMMIT USING THE IDE
 	System.out.println(Thread.currentThread().getName());
 	System.out.println(e1.getName());
 	System.out.println(e1.isAlive());
